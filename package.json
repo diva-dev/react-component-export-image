@@ -8,6 +8,10 @@
     "build": "webpack --mode production",
     "build:analyze": "webpack --profile --json > webpack-stats.json && webpack-bundle-analyzer webpack-stats.json ./dist"
   },
+  "engines": {
+    "node": "~14.x",
+    "npm": "~6.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/salman-monetate/react-component-export-image.git"
