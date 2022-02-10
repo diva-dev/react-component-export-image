@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salman-monetate/react-component-export-image.git"
+    "url": "git+https://github.com/diva-dev/react-component-export-image-fork.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,6 @@
   ],
   "author": "Salman Siddiqui",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/salman-monetate/react-component-export-image/issues"
-  },
   "homepage": "https://github.com/salman-monetate/react-component-export-image#readme",
   "dependencies": {
     "html2canvas": "^1.0.0-rc.7",
